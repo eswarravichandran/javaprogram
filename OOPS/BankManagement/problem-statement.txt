@@ -1,0 +1,50 @@
+📌 Problem: Banking System (Console-Based)
+
+Design and implement a Bank Management System.
+
+🎯 Requirements
+👤 1. Account Management
+
+Each account should have:
+
+Account Number (auto-generated)
+Account Holder Name
+Balance
+🏦 2. Types of Accounts
+
+Support at least:
+
+Savings Account
+Current Account
+
+Each type should have different rules.
+
+💰 3. Operations
+
+Implement the following:
+
+Create Account
+Deposit Money
+Withdraw Money
+Transfer Money (between accounts)
+View Account Details
+⚠️ 4. Constraints
+Cannot withdraw more than balance
+Transfer only if sender has sufficient balance
+Each account must be uniquely identifiable
+🧠 5. Design Expectations (Important)
+
+Your solution must naturally include:
+
+Abstraction
+Inheritance
+Polymorphism
+Encapsulation
+🧱 6. Structure Expectation
+
+You should think in terms of:
+
+Base class / abstract class
+Derived classes
+Manager class (like Bank)
+Main class (App)
