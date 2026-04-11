@@ -26,7 +26,8 @@ public class Problem3 {
         for(int i = 1; i < arr.length; i++) {
             if(arr[i] < min) {
                 min = arr[i];
-            } else {
+            }
+            else {
                 int profit = arr[i] - min;
                 if(profit > maxProfit) {
                     maxProfit = profit;
