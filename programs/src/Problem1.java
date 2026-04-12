@@ -1,4 +1,4 @@
-// Problem 1: Two Sum (Easy–Medium)
+// Problem: Two Sum (Easy–Medium)
 
 // Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to the target.
 

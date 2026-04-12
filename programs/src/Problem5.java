@@ -1,4 +1,4 @@
-// 🔹 Problem 1: Valid Anagram
+// 🔹 Problem: Valid Anagram
 // 🧾 Problem Statement
 
 // Given two strings s and t, return true if t is an anagram of s, otherwise return false.

@@ -1,4 +1,4 @@
-// Problem 2: Valid Parentheses (Medium)
+// Problem: Valid Parentheses (Medium)
 
 // Given a string s containing just '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 

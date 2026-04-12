@@ -1,4 +1,4 @@
-// 🔹 Problem 2: Move Zeroes
+// 🔹 Problem: Move Zeroes
 // 🧾 Problem Statement
 
 // Given an array nums, move all 0s to the end without changing the order of non-zero elements.

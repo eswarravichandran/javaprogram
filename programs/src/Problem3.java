@@ -1,4 +1,4 @@
-// Problem 3: Best Time to Buy and Sell Stock
+// Problem: Best Time to Buy and Sell Stock
 // 🧾 Problem Statement
 
 // You are given an array prices[] where prices[i] is the stock price on day i.

@@ -1,4 +1,4 @@
-// Problem 2: Contains Duplicate
+// Problem: Contains Duplicate
 // 🧾 Problem Statement
 
 // Given an integer array nums, return true if any value appears at least twice, otherwise return false.

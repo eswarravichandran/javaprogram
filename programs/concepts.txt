@@ -1,0 +1,71 @@
+🧠 Complete DSA Concepts Roadmap (Structured)
+
+🔹 1. Arrays & Strings (Foundation)
+
+- Traversal
+- Prefix Sum
+- Two Pointers
+- Sliding Window  ← (your weak area)
+- Kadane’s Algorithm
+- Sorting + Searching
+
+🔹 2. Hashing
+
+- HashMap / HashSet
+- Frequency counting
+- Prefix sum + HashMap
+- Handling duplicates
+
+🔹 3. Recursion & Backtracking
+
+- Recursion basics
+- Subsets / Permutations
+- N-Queens
+- Decision tree thinking
+
+🔹 4. Linked List
+
+- Reversal
+- Cycle detection (Floyd)
+- Merge lists
+- Fast & slow pointers
+
+🔹 5. Stack & Queue
+
+- Stack (LIFO)
+- Queue (FIFO)
+- Monotonic Stack
+- Next Greater Element
+
+🔹 6. Trees (Very Important)
+
+- Binary Tree traversal (DFS, BFS)
+- BST concepts
+- Height, diameter
+- LCA (Lowest Common Ancestor)
+
+🔹 7. Heaps / Priority Queue
+
+- Min Heap / Max Heap
+- Top K problems
+- Merge K sorted arrays/lists
+
+🔹 8. Greedy Algorithms
+
+- Interval problems
+- Activity selection
+- Jump game
+
+🔹 9. Graphs (Advanced)
+
+- BFS / DFS
+- Cycle detection
+- Topological sort
+- Shortest path (Dijkstra)
+
+🔹 10. Dynamic Programming (Hard)
+
+- Memoization
+- Tabulation
+- Knapsack
+- LIS (Longest Increasing Subsequence)
